@@ -1,0 +1,15 @@
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\bin\Debug\net6.0\Fråga.exe
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\bin\Debug\net6.0\Fråga.deps.json
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\bin\Debug\net6.0\Fråga.runtimeconfig.json
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\bin\Debug\net6.0\Fråga.dll
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\bin\Debug\net6.0\Fråga.pdb
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.csproj.AssemblyReference.cache
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.AssemblyInfoInputs.cache
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.AssemblyInfo.cs
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.csproj.CoreCompileInputs.cache
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.dll
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\refint\Fråga.dll
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.pdb
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\Fråga.genruntimeconfig.cache
+C:\Users\alexander.eijvergar\Documents\Programering\Frågesport\Fråga\obj\Debug\net6.0\ref\Fråga.dll

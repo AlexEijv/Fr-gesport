@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj": {}
+    "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj": {
+    "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj",
+        "projectUniqueName": "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj",
         "projectName": "Fråga",
-        "projectPath": "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj",
+        "projectPath": "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\Fråga.csproj",
         "packagesPath": "C:\\Users\\alexander.eijvergar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\obj\\",
+        "outputPath": "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\Frågesport\\Fråga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
