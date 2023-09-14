@@ -13,10 +13,10 @@ else
 }
 
 
-Console.WriteLine("2, Bästa vapnet i CS");
-Console.WriteLine("a) AK47 b) AWP c) M4a1-s");
+Console.WriteLine("2, Vidrigaste vapnet i CS");
+Console.WriteLine("a) P90 b) AWP c) m249");
 string q2 = Console.ReadLine();
-if (q2 =="a")
+if (q2 =="b")
 {
     Console.WriteLine("Korrekt");
 }
@@ -26,15 +26,15 @@ else
 }
 
 Console.WriteLine("3, Bästa mid tier kniven i CS:GO");
-Console.WriteLine("a) Nomad b) Skeleton c) Talon");
+Console.WriteLine("a) Skeleton b) Nomad c) Talon");
 string q3 = Console.ReadLine();
-if (q3 == "b")
+if (q3 == "a")
 {
     Console.WriteLine("Korrekt");
 }
 else
 {
-    Console.WriteLine("Snälla, lär dig nått");
+    Console.WriteLine("Snälla... Jag blir fan ledsen");
 }
 
 Console.WriteLine("Tryck på en tangent för att avsluta.");
